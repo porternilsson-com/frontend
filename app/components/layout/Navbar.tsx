@@ -12,7 +12,7 @@ export function Navbar() {
   return (
     <header>
       <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-4">
-        <Link to="/" className="text-2xl font-bold">
+        <Link to="/" className="text-2xl font-medium">
           Porter Nilsson
         </Link>
 
