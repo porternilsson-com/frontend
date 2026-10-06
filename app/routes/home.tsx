@@ -1,7 +1,5 @@
 export function meta() {
-  return [
-    { title: "Home" },
-  ];
+  return [{ title: "Home" }];
 }
 
 export default function Home() {
